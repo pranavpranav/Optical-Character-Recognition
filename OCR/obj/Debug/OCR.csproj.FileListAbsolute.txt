@@ -1,0 +1,14 @@
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\IronOcr.dll
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\IronOcr.xml
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.csprojAssemblyReference.cache
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.Form1.resources
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.cache
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.csproj.CoreCompileInputs.cache
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.csproj.CopyComplete
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\pranav\source\repos\OCR\OCR\obj\Debug\OCR.pdb
+C:\Users\pranav\source\repos\OCR\OCR\bin\Debug\moti_ocr.png
